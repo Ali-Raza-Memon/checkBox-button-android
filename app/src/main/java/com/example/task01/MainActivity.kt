@@ -18,8 +18,8 @@ class MainActivity : AppCompatActivity() {
 //        })
 
 //        ImageView imageView = findViewById(R.id.imageView);
-        var myImage = findViewById<ImageView>(R.id.cat2);
-        myImage.setImageResource(R.drawable.cat);
+//        var myImage = findViewById<ImageView>(R.id.cat2);
+//        myImage.setImageResource(R.drawable.cat);
 
     }
 }
